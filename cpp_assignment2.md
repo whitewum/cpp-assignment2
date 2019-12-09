@@ -2,7 +2,7 @@
 # 任程威
 
 ## p301 9.11
-```
+```cpp
 vector<int> vec;
 vector<int> vec(10); 
 vector<int> vec(10,1); 
